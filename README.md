@@ -1,3 +1,3 @@
 # home_server
 
-Trying to set everything up to host a small homeserver.
+Building a small home_server running on NodeJS.

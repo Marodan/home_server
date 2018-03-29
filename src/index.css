@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body{
+    font-family: "Open Sans";
+}
+
+.box{
+    width: 50%;
+    display: grid;
+    grid-template-columns: 20% 60% auto;
+    text-align: center;
+    padding: 5px;
+}
+.box p{
+    margin:5px;
+}
+.box input{
+    margin: 5px;
+}
+.box button{
+    margin: 5px;
+}
